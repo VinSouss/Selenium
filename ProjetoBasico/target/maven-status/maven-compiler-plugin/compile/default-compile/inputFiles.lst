@@ -1,0 +1,17 @@
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\suites\SuiteGeral.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\utils\DataUtils.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\pages\LoginPage.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\core\BaseTest.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\pages\ContasPage.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\tests\RemoverMovimentacaoContaTest.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\tests\ResumoTest.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\tests\ContaTest.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\pages\MovimentacaoPage.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\core\Propriedades.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\pages\MenuPage.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\pages\ResumoPage.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\pages\HomePage.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\core\BasePage.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\tests\MovimentacaoTest.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\tests\SaldoTest.java
+D:\Workspace\ProjetoBasico\src\main\java\br\ce\wcaquino\core\DriverFactory.java
